@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mosesomo
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning inforation and technology
+- 🌱 I’m currently learning information and technology
 - 💞️ I’m looking to collaborate on  java and python programming
 - 📫 How to reach me is the email which is moseswamboga4@gmail.com
 
