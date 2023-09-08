@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mosesomomondi
+- 👋 Hi, I’m @Mosesomondi
 - 👀 I really love coding and solve world`s problems with it
 - 🌱 I’m currently learning information and technology at Zetech University and also doing software engineering at Alx @holberton School
 - 💞️ I’m looking forward to collaborate on  fullstack software development specializing on Backend engineering
