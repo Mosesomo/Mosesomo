@@ -14,7 +14,7 @@
 
 ### 💡 About Me
 
-- 🎓 Currently studying **Information Technology** at **Zetech University**  
+- 🎓 Studied **Information Technology** at **Zetech University**  
 - 🧑‍🎓 Graduate in **Fullstack Software Engineering** from **ALX @ Holberton School**  
 - 🔭 Passionate about building fullstack applications and solving real-world problems  
 - 💬 Ask me about **React**, **Node.js**, **Django**, **Flask**, **MongoDB**, and **PostgreSQL**  
