@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moses Omondi</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moses-wamboga-698a88252/" target="_blank">
+  <a href="[https://www.linkedin.com/in/moses-wamboga-698a88252/](https://www.linkedin.com/in/omondi-moses-20a61235a/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:moseswamboga4@gmail.com">
@@ -59,7 +59,7 @@
 
 - 📧 Email: [moseswamboga4@gmail.com](mailto:moseswamboga4@gmail.com)
 - Phone: +254 706 737 539
-- 💼 LinkedIn: [linkedin.com/in/moses-wamboga-698a88252](https://www.linkedin.com/in/moses-wamboga-698a88252/)
+- 💼 LinkedIn: [(https://www.linkedin.com/in/moses-wamboga-698a88252/)](https://www.linkedin.com/in/omondi-moses-20a61235a/)
 
 ---
 
